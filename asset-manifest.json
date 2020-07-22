@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gurpreetsbhachu/github-job-api/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/gurpreetsbhachu/github-job-api/static/js/main.095f3f4e.chunk.js",
+    "main.js.map": "/gurpreetsbhachu/github-job-api/static/js/main.095f3f4e.chunk.js.map",
+    "runtime-main.js": "/gurpreetsbhachu/github-job-api/static/js/runtime-main.d77dbb7f.js",
+    "runtime-main.js.map": "/gurpreetsbhachu/github-job-api/static/js/runtime-main.d77dbb7f.js.map",
+    "static/js/2.6f000422.chunk.js": "/gurpreetsbhachu/github-job-api/static/js/2.6f000422.chunk.js",
+    "static/js/2.6f000422.chunk.js.map": "/gurpreetsbhachu/github-job-api/static/js/2.6f000422.chunk.js.map",
+    "index.html": "/gurpreetsbhachu/github-job-api/index.html",
+    "precache-manifest.0ff45f0b42cbb3bd74eaa381c18bdb06.js": "/gurpreetsbhachu/github-job-api/precache-manifest.0ff45f0b42cbb3bd74eaa381c18bdb06.js",
+    "service-worker.js": "/gurpreetsbhachu/github-job-api/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/gurpreetsbhachu/github-job-api/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.6f000422.chunk.js.LICENSE.txt": "/gurpreetsbhachu/github-job-api/static/js/2.6f000422.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d77dbb7f.js",
+    "static/js/2.6f000422.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.095f3f4e.chunk.js"
+  ]
+}
