@@ -1,4 +1,4 @@
-# GitHub Jobs API : ReactJS
+# GitHub Jobs : ReactJS
 ### `Features`
 - Display Jobs From API.
 - Search by Department or Location.
